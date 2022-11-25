@@ -12,8 +12,6 @@
     "classnames": "^2.3.2",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.4",
-    "gsap": "^3.11.3",
-    "immutability-helper": "^3.1.1",
     "lodash": "^4.17.21",
     "next": "13.0.4",
     "react": "18.2.0",
